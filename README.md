@@ -1,4 +1,4 @@
-# personalDNSfilter
+# block website
 
 
 In Windows search toolbar type Notepad
